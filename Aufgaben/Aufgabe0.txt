@@ -1,0 +1,1 @@
+Beschreibung des Vorgehens zum Aufbau einer Testumgebung mit dem Labmangement in einer Virtuellen Umgebung. Maximale Anzahl von 30000 Zeichen in einem von Word lesbarem Format. 
